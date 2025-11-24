@@ -1,12 +1,12 @@
-#Simple Library Management System
+# Simple Library Management System
 
 
 A lightweight, console-based Library Management System built using Core Java
-#Overview of the Project
+# Overview of the Project
 This is a minimal yet fully functional Library Management System developed as a semester project for Object-Oriented Programming (Java).
 It demonstrates core OOP concepts such as classes, objects, encapsulation, collections (ArrayList), methods, and basic error handling — without using any external libraries or database.
 Perfect for beginners and guaranteed to meet all academic requirements.
-#Features
+# Features
 
 Add new books (Title + ISBN)
 Register new library members
@@ -16,14 +16,14 @@ Display all books with real-time availability status
 Simple, user-friendly menu-driven interface
 Input validation and clear error messages
 
-#Technologies / Tools Used
+# Technologies / Tools Used
 
 Language: Java SE 8+
 Data Structure: ArrayList (in-memory storage)
 Input Handling: java.util.Scanner
 No external dependencies · No GUI · No database · No build tools required
 
-#Steps to Install & Run the Project
+# Steps to Install & Run the Project
 Method 1: Using Command Line (Recommended)
 Bash# 1. Clone or download the repository
 git clone https://github.com/your-username/Simple-Library-Management-System.git
@@ -36,11 +36,11 @@ javac *.java
 java Main
 Method 2: Using any Java IDE (IntelliJ IDEA, Eclipse, VS Code, NetBeans)
 
-#Open the project folder
+# Open the project folder
 Let the IDE detect the .java files
 Run Main.java (it contains the public static void main)
 
-#Instructions for Testing
+# Instructions for Testing
 The program starts with sample data (2 books + 1 member) so you can test immediately.
 Test Cases to Try:
 

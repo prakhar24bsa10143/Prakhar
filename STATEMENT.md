@@ -31,6 +31,5 @@ This system successfully demonstrates core Object-Oriented Programming concepts 
 
 **Project Title:** Simple Library Management System  
 **Language:** Java (SE)  
-**Submitted by:** [Your Full Name]  
-**Roll No:** [Your Roll Number]  
-**Date:** [Submission Date]
+**Submitted by:** Prakhar Upadhay
+**Reg No:** 24BSA10143

@@ -1,6 +1,5 @@
 # Simple Library Management System
 
-
 A lightweight, console-based Library Management System built using Core Java
 # Overview of the Project
 This is a minimal yet fully functional Library Management System developed as a semester project for Object-Oriented Programming (Java).
@@ -26,9 +25,6 @@ No external dependencies · No GUI · No database · No build tools required
 # Steps to Install & Run the Project
 Method 1: Using Command Line (Recommended)
 Bash# 1. Clone or download the repository
-git clone https://github.com/your-username/Simple-Library-Management-System.git
-cd Simple-Library-Management-System
-
 # 2. Compile all Java files
 javac *.java
 
